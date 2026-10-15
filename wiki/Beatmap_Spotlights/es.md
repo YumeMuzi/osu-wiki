@@ -14,7 +14,7 @@ tags:
 
 **Beatmap Spotlights** (o simplemente *Spotlights*, anteriormente *Ranking Charts*) es un programa de selección recurrente para recomendar y resaltar [beatmaps](/wiki/Beatmap) por su excelente diseño y jugabilidad. Está acompañado de una [liga estacional](#temporadas-de-spotlights), donde los jugadores compiten en dichos mapas por [premios de insignias](#recompensas).
 
-La temporada actual es la temporada de verano 2025.
+La temporada actual es la temporada de invierno de 2026.
 
 La [página del grupo Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) enumera a todos los miembros del equipo. Véase la página del [artículo de los Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) para obtener una lista más detallada de todos los roles dentro del BSC.
 
@@ -30,7 +30,9 @@ Si no hay salas abiertas, espera a la próxima temporada. La pausa entre tempora
 
 ## Temporadas de Spotlights
 
-*Para obtener la lista de temporadas de Spotlights, véase: [Temporadas](Seasons)*
+::: alert-note
+**Nota:** Para obtener la lista de temporadas de Spotlights, véase [Temporadas](Seasons)
+:::
 
 El proyecto Beatmap Spotlights está organizado actualmente en temporadas predefinidas. Cada temporada consta de un conjunto de beatmaps seleccionados y una liga de temporada competitiva para toda la comunidad.
 

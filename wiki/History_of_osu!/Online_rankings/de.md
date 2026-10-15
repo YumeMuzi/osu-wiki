@@ -9,8 +9,6 @@ tags:
   - Geschichte
   - erster Rang
   - bester Spieler
-outdated_translation: true
-outdated_since: 363e0b802de7314c1081d2874aeed14faf9f85a7
 ---
 
 # Geschichte der Online-Ranglisten
@@ -21,23 +19,27 @@ Zahlreiche Spieler hielten den ersten Rang in jedem Spielmodus mit verschiedenen
 
 ## ![][osu!] osu!
 
-*Hauptseite: [Geschichte der osu!-Rangliste](osu!)*
+::: alert-note
+**Hauptseite:** [Geschichte der osu!-Rangliste](osu!)
+:::
 
-Mit Stand vom 3. August 2024 ist ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu) auf Platz 1 der [osu! Performance-Rangliste](https://osu.ppy.sh/rankings/osu/performance).
+Mit Stand vom 11. Juli 2026 ist ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu) auf Platz 1 der [osu! Performance-Rangliste](https://osu.ppy.sh/rankings/osu/performance).
 
 ## ![][osu!taiko] osu!taiko
 
-Mit Stand vom 1. März 2025 ist ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
+Mit Stand vom 23. Juli 2026 ist ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
 
 ## ![][osu!catch] osu!catch
 
-*Hauptseite: [Geschichte der osu!catch-Rangliste](osu!catch)*
+::: alert-note
+**Hauptseite:** [Geschichte der osu!catch-Rangliste](osu!catch)
+:::
 
-Mit Stand vom 2. November 2024 ist ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
+Mit Stand vom 15. September 2026 ist ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
 
 ## ![][osu!mania] osu!mania
 
-Mit Stand vom 31. Dezember 2024 ist ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
+Mit Stand vom 4. April 2026 ist ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

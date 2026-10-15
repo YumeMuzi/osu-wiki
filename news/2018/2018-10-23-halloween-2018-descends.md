@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2018 Descends!
 date: 2018-10-23 10:30:00 +0000
+series: fanart_contests
 ---
 
 All Hallow's Eve approaches fast, and the darkest night threatens to take over osu! once and for all, starting with the main menu! Spooks, chills and thrills abound with new Hush-Hush medals and more, come check out what's new!
@@ -54,7 +55,7 @@ Whimsically commanding **4111** votes, [Vio](https://osu.ppy.sh/users/5661237)'s
 
 High above the clouds, **3927** voters approved of [Misakko](https://osu.ppy.sh/users/3173752)'s take on a flying Aiko set before an ominous blood mood. Simple, striking, and absolutely wonderful.
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Lee%20Narie.jpg)](https://assets.ppy.sh/contests/70/winners/Lee%20Narie.png)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Lee-Narie.jpg)](https://assets.ppy.sh/contests/70/winners/Lee%20Narie.png)
 
 Running straight into the grasp of **3851** voters, [Lee Narie](https://osu.ppy.sh/users/2667849)'s spooktacular entry features the main mascot gang in full, except Yuzu's insatiable attraction to plant and fruit-based lifeforms have resulted in him seating a pumpkin on his head.
 

@@ -2,11 +2,12 @@
 layout: post
 title: "New Featured Artist: Camellia"
 date: 2018-12-24 10:00:00 +0000
+series: featured_artists
 ---
 
 Camellia when? Now.
 
-[![](https://assets.ppy.sh/artists/31/header.jpg)](https://osu.ppy.sh/beatmaps/artists/31)
+![](https://assets.ppy.sh/artists/31/header.jpg)
 
 You asked...
 

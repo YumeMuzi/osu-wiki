@@ -44,7 +44,7 @@ The **GB Cup 2025 Spring** (***GBC 2025 Spring***) was an osu!mania 4K point-bas
 | *17th place – 24th place* | 20 RMB |
 | *Full attendance prize (include playoff players)* | KanonBot profile badge (all groups), 10 RMB (Group B), 12.4 RMB (Group A), 14,8 RMB (Group S), 17.2 RMB (Group EX) |
 
-![GBC 2025 Spring QQ division winner badge](img/GBC-2025-Spring-badge-QQ-1st.png) 
+![GBC 2025 Spring QQ division winner badge](img/GBC-2025-Spring-badge-QQ-1st.png)
 
 ### Discord division
 
@@ -309,6 +309,8 @@ Sunday, 18 May 2025
 | **::{ flag=CN }:: [LiangFenFan](https://osu.ppy.sh/users/15183087)** | **23** | 15 | ::{ flag=CN }:: [Idontknowwhathi](https://osu.ppy.sh/users/32379983) | ↑ |
 | **::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902)** | **30** | **18** | **::{ flag=CN }:: [shadiaojunshi](https://osu.ppy.sh/users/29165753)** | [#1](https://osu.ppy.sh/community/matches/118127286) |
 | ::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676) | 16.2 | 16.1 | ::{ flag=CN }:: [verysour](https://osu.ppy.sh/users/32358269) | ↑ |
+| ::{ flag=CN }:: [MSCMoon](https://osu.ppy.sh/users/32399548) | 16 | **32** | **::{ flag=CN }:: [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518)** | [#1](https://osu.ppy.sh/community/matches/118129212) |
+| ::{ flag=CN }:: [Yugamiii](https://osu.ppy.sh/users/32635363) | 15 | 17 | ::{ flag=CN }:: [Real-1zE](https://osu.ppy.sh/users/30885120) | ↑ |
 
 ### Discord division
 
@@ -514,6 +516,7 @@ Due to the vast number of matches and players involved, it's not possible to dis
 
 1. Each group has four mappools, with one mappool to be played in every week.
 2. Each mappool consists of 7 beatmaps that will all be played under [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) conditions. This means that there is a unique Free Mod bracket.
+   - Free Mod here means `No Fail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror` are allowed.
 3. The composition of the beatmap slots in the mappool may vary from round to round.
 
 ### Scheduling information

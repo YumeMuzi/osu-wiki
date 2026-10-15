@@ -11,7 +11,9 @@ no_native_review: true
 
 # Offizielle Unterstützung für Mapping-Wettbewerbe
 
-*Für Turnierunterstützung, siehe: [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support).*
+::: alert-note
+**Anmerkung:** Für Turnierunterstützung, siehe [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support).
+:::
 
 [Beatmapping-Wettbewerbe](/wiki/Contests) können bei der Erfüllung bestimmter Kriterien eine Unterstützung vom [osu!-Team](/wiki/People/osu!_team) erhalten.
 
@@ -46,7 +48,7 @@ Zusätzlich sollten alle Werbematerialien oder andere Dienstleistungen, die im Z
 
 Obwohl die folgenden Erwartungen hauptsächlich für Turniere gelten, sollten Wettbewerbe diese trotzdem so gut wie möglich erfüllen:
 
-- [Personal](/wiki/Tournaments/Official_support#personal)
+- [Aushelfer](/wiki/Tournaments/Official_support#aushelfer)
 - [Spieler](/wiki/Tournaments/Official_support#spieler)
 
 ## Förderungsanspruch
@@ -73,7 +75,7 @@ Wettbewerbe, die sich an die folgenden Kriterien halten, können eine offizielle
 - **Nutzer können immer nur an einer Einsendung für den Wettbewerb mitwirken.**
 - **Einsendungen für den Wettbewerb sollten anonym sein.** Die Entfernung der Namenszuordnung zwischen dem Mapper und seiner Beatmap verhindert voreingenommene Meinungen. Diese Regel kann möglicherweise ignoriert werden, wenn ein Wettbewerb außergewöhnliche Umstände aufweist, die eine Deanonymisierung rechtfertigen.
 - **Wettbewerbsorganisatoren dürfen nicht am Wettbewerb teilnehmen.** Dies umfasst sowohl das Einsenden einer Beatmap *als auch* die Bewertung/die Vorauswahl von Einsendungen. Jeder, der Zugang zu Informationen über Bewertungen oder deanonymisierten Einsendungen hat, gilt als "Wettbewerbsorganisator".
-- **Personal, das in jeglicher Weise an der Durchführung des Wettbewerbs beteiligt ist, darf zum jeweiligen Zeitpunkt weder eine [Accounteinschränkung](/wiki/Help_centre/Account_restrictions) noch eine [Turniersperre](/wiki/Help_centre/Tournament_bans) haben.**
+- **Personal, das in jeglicher Weise an der Durchführung des Wettbewerbs beteiligt ist, darf zum jeweiligen Zeitpunkt weder eine [Accounteinschränkung](/wiki/Help_centre/Account_restrictions) noch eine [Turniersperre](/wiki/Help_centre/Tournament_sanctions#turniersperren) haben.**
 
 Zusätzlich zu den oben genannten Kriterien haben Wettbewerbe, die sich an die folgenden Regeln halten, Anspruch auf die Vergabe von **[Wettbewerbspunkten](/wiki/Contests/Contest_points), mit denen der Nutzertitel *Elite Mapper* erworben werden kann:**
 

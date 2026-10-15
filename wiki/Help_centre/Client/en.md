@@ -20,7 +20,9 @@ tags:
 
 # Client
 
-*Main page: [Help centre](/wiki/Help_centre)*
+::: alert-note
+**Main page:** [Help centre](/wiki/Help_centre)
+:::
 
 Having trouble with the game client? Find out if your issue is listed among the most common problems encountered by our users.
 
@@ -141,7 +143,10 @@ To safely force your beatmap database to be recreated, try the following steps:
 7. Rename it as you wish. It doesn't matter, as long as it is not called "osu!". Then press `Enter`.
 8. Relaunch osu!.
 
-*Note: a fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues).*
+::: alert-notice
+**Notice**
+A fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues).
+:::
 
 ### My song list keeps scrolling! {id=songs-list-scrolling}
 
@@ -292,6 +297,12 @@ Turning on VSync or playing in Windowed or Borderless mode will introduce a *sli
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
+### I switched to osu!(lazer)'s native tablet drivers and now my area has changed! {id=tablet-area}
+
+osu!(lazer) has the [OpenTabletDriver](https://opentabletdriver.net/) built-in. If you weren't using these drivers before, then this happens because your tablet is not configured correctly for the native drivers.
+
+See the [tablet area conversion guide](/wiki/Guides/Tablet_conversion) for more information on how to correctly convert your old tablet driver's area to OpenTabletDriver's settings.
+
 ## Online features {id=online-features}
 
 ### I can't sign in or connect to the game at all! {id=cannot-sign-in}
@@ -324,7 +335,7 @@ Please consult Kaspersky's [official help article](https://support.kaspersky.com
 
 #### Allowing a program through McAfee {id=firewall-whitelist-mcafee}
 
-Please consult McAfee's [official knowledge base entry on the topic](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
+Please consult McAfee's [official knowledge base entry on the topic](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html).
 
 ### I've added osu! to my firewall but I still can't connect to the game! {id=sign-in-unknown-cause}
 

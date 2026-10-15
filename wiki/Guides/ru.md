@@ -4,11 +4,13 @@
 
 ## Маппинг
 
-*Основная статья: [Маппинг](/wiki/Beatmapping)*
+::: alert-note
+**Основная статья:** [Маппинг](/wiki/Beatmapping)
+:::
 
 - [Гайд по маппингу в osu!mania](osu!mania_mapping_guide)
 - [Добавление нестандартных хитсаундов](Using_custom_hitsounds)
-- [Изменение текста заголовка карты](/wiki/Beatmap/Title_text#changing-title-text)
+- [Изменение текста заголовка карты](/wiki/Beatmap/Title_text#настройка)
 - [Как изменить исполнителя или название карты](Changing_the_artist_or_title)
 - [Как начать свой маппинг-проект?](Starting_a_beatmap_project)
 - [Как решить проблемы с BSS?](BSS_issues)
@@ -18,12 +20,14 @@
 - [Руководство по редактированию аудио](Audio_editing)
 - [Сжатие файлов](Compressing_files)
 - [Нестандартные хитсаунды](Custom_sample_overrides)
-- [Тайминг песен с размером такта #/8](Timing_songs_with_8-signatures)
+- [Тайминг песен с размером такта #/8](Timing_songs_with_N_per_8_time_signatures)
 - [Теория музыки](/wiki/Music_theory)
 
 ## Моддинг
 
-*Основная статья: [Моддинг](/wiki/Modding)*
+::: alert-note
+**Основная статья:** [Моддинг](/wiki/Modding)
+:::
 
 - [Как найти моды на свою карту](Getting_your_map_modded)
 - [Руководство по моддингу в osu!mania](osu!mania_modding_guide)
@@ -32,12 +36,13 @@
 ## Игра
 
 - [Как использовать мастер настройки оффсета](How_to_use_the_Offset_Wizard)
-- [Руководство по покупке планшета](Tablet_purchase)
 - [Туториал для начинающих](Beginner's_tutorial)
 
 ## Создание скинов
 
-*Основная статья: [Руководства и проекты по скиннингу](/wiki/Skinning/Guides_and_important_threads)*
+::: alert-note
+**Основная статья:** [Руководства и проекты по скиннингу](/wiki/Skinning/Guides_and_important_threads)
+:::
 
 - [Как сделать правильно центрированные спиннеры в скинах](Making_properly_centred_spinners)
 - [Как удалить простой фон на картинке](Cropping_with_simple_backgrounds)

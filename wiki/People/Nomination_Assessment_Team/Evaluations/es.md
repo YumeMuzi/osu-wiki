@@ -1,6 +1,13 @@
+---
+outdated_translation: true
+outdated_since: 90ad638e22909345d5081bc148e3ad86452ec412
+---
+
 # Evaluaciones de los Beatmap Nominators
 
-*Véase también: [Convertirse en Beatmap Nominator § Proceso de solicitud](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#proceso-de-solicitud)*
+::: alert-note
+**Véase también:** [Convertirse en Beatmap Nominator § Proceso de solicitud](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#proceso-de-solicitud)
+:::
 
 Las evaluaciones de quienes solicitan convertirse en [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*), así como de los actuales Beatmap Nominators, son llevadas a cabo por los miembros del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*). Estas evaluaciones siguen un formato establecido para garantizar que cada solicitud y cada nominador serán evaluados con regularidad. Todas las evaluaciones se realizan en el [sitio web de los BN](https://bn.mappersguild.com/).
 
@@ -18,7 +25,7 @@ Cada BN es revisado periódicamente por los miembros del NAT.
 
 Para los nominadores en [periodo de prueba](/wiki/People/Beatmap_Nominators#beatmap-nominators-provisionales), o que hayan recibido una advertencia de [actividad](/wiki/People/Beatmap_Nominators/Rules#actividad), su próxima evaluación se programará aproximadamente 1 mes después de haber sido puestos en periodo de prueba o de haber recibido la advertencia.
 
-En el caso de los Beatmap Nominators completos sin advertencias recientes, sus evaluaciones se programarán cada 3 meses.
+En el caso de los Beatmap Nominators completos sin advertencias recientes, sus evaluaciones se realizarán cada 3 meses o cada 30 nominaciones, lo que ocurra primero.
 
 La duración entre las evaluaciones es programada automáticamente por el [sitio web de los BN](https://bn.mappersguild.com/). Sin embargo, si existe un motivo importante de preocupación sobre el rendimiento de un BN en una fecha anterior, los miembros del NAT también pueden programar manualmente una evaluación para que se produzca antes de lo normal.
 
@@ -34,7 +41,7 @@ La fase individual se mostrará en el sitio web de los BN 2 semanas antes de su 
 
 ### Fase grupal
 
-Una vez que tres miembros del NAT hayan presentado sus evaluaciones, la evaluación pasará a la fase grupal. Durante la fase grupal, los miembros del NAT discutirán sus evaluaciones entre sí, llegarán a un acuerdo y redactarán el informe de la evaluación. Los resultados e informe pueden variar en función del BN. Si se observa que un BN no está rindiendo a la altura de las expectativas, se le puede imponer una advertencia o un periodo de prueba, dependiendo de la gravedad del problema.
+Una vez que tres miembros del NAT hayan presentado sus evaluaciones, la evaluación pasará a la fase grupal. Durante la fase grupal, los miembros del NAT discutirán sus evaluaciones entre sí, llegarán a un acuerdo y redactarán el informe de la evaluación. Los resultados e informe pueden variar en función del BN. Si se observa que un BN no está rindiendo a la altura de las expectativas, se le puede imponer una advertencia o se le puede expulsar, dependiendo de la gravedad del problema.
 
 Una vez redactado y revisado el informe, se enviará y se realizarán los cambios necesarios en los [grupos de usuarios](/wiki/People/User_group). El [bot del Nomination Assessment Team](https://osu.ppy.sh/users/6616586) enviará el informe en forma de [mensaje de anuncio](/wiki/Announcement_messages).
 

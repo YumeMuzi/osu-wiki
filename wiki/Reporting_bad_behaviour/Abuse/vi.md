@@ -1,12 +1,11 @@
 ---
-no_native_review: true
 outdated_translation: true
-outdated_since: 4726aee80ebfa659ad7552ec1a6db04c51331c75
+outdated_since: e7163973aa4c854dcc0455e3f696b608bf0852f7
 ---
 
 # Báo cáo lạm dụng
 
-## Tôi không biết liệu mình nên có nên báo cáo điều này hay không
+## Tôi không biết liệu mình có nên báo cáo điều này hay không
 
 Nếu bạn vẫn đang băn khoăn thì tốt nhất là nên báo cáo.
 
@@ -14,7 +13,9 @@ Nếu bạn cảm thấy không thoải mái đến mức phải đọc trang n�
 
 Chúng tôi không khoan nhượng đối với bất kỳ hình thức chú ý hoặc tiếp cận tình dục không mong muốn nào trong cộng đồng này
 
-Địa chỉ email lạm dụng chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi), không có gì bạn gửi đến [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ được chia sẻ với bất kỳ ai khác ngoài anh ta.
+Địa chỉ email lạm dụng chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi).
+
+Mọi báo cáo bạn gửi đến [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ không được chia sẻ với bất kỳ ai khác ngoài anh ấy.
 
 ## Ai đó đã có những hành vi hoặc lời nói khiếm nhã mang tính quấy rối tình dục đối với tôi!
 
@@ -52,7 +53,7 @@ Sau đó, hãy liên hệ ngay với quản trị viên của máy chủ bằng 
 
 Nếu hành vi lạm dụng này tiếp tục diễn ra và quản trị viên không làm gì về việc đó, [vui lòng thông báo cho nhóm Discord Trust & Safety bằng cách gửi báo cáo](https://dis.gd/request).
 
-Ngoài ra, nếu bạn biết tài khoản osu! của người quấy rối bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin thì càng tốt và mọi thứ sẽ được điều tra kịp thời.
+Nếu bạn biết tài khoản osu! của người làm phiền bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) kèm theo càng nhiều thông tin thì càng tốt và vụ việc sẽ được xem xét khi có thể. Lưu ý rằng chúng tôi không thể xử lý các nội dung trên các dịch vụ của bên thứ ba, vì vậy không có gì đảm bảo rằng chúng tôi sẽ hành động, nhưng chúng tôi sẽ lưu lại mọi ghi chú trong hồ sơ.
 
 ### Trên Twitter được liên kết với tài khoản osu!
 
@@ -62,21 +63,21 @@ Sau đó, chặn hoặc tắt tiếng người dùng đó bằng cách nhấp v�
 
 Xin lưu ý rằng người đó sẽ biết bạn chặn họ nếu họ kiểm tra hồ sơ Twitter của bạn. Nếu bạn lo lắng điều này sẽ làm cho vấn đề trở nên tồi tệ hơn trong tương lai thì hãy chọn tắt tiếng tài khoản đó. Thao tác này sẽ xóa các tweet của họ khỏi dòng thời gian của bạn và ngăn bạn xem thêm bất kỳ nội dung nào từ họ, nhưng họ vẫn có thể xem và bình luận về tất cả các tweet bạn thực hiện.
 
-Nếu tweet đến từ một tài khoản được liên kết với hồ sơ người chơi osu! qua trang web của chúng tôi (nó sẽ xuất hiện dưới ảnh đại diện và ngày tham gia, bên cạnh biểu tượng con chim tweet), vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) kèm theo bản sao của tweet dưới dạng hình ảnh nếu có thể, cùng với bất kỳ thông tin nào bạn có thể nghĩ tới.
+Nếu bạn biết tài khoản osu! của người làm phiền bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) kèm theo càng nhiều thông tin thì càng tốt và vụ việc sẽ được xem xét khi có thể. Lưu ý rằng chúng tôi không thể xử lý các nội dung trên các dịch vụ của bên thứ ba, vì vậy không có gì đảm bảo rằng chúng tôi sẽ hành động, nhưng chúng tôi sẽ lưu lại mọi ghi chú trong hồ sơ.
 
-## Một thành viên của một trong các nhóm tình nguyện (NAT, GMT) đang tiếp cận/nói chuyện/cư xử với tôi không đúng chuẩn mực!
+## Một thành viên trong các nhóm tình nguyện (NAT, GMT) đang tiếp cận/nói chuyện/cư xử với tôi không đúng chuẩn mực!
 
 Gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) **ngay lập tức** với càng nhiều thông tin càng tốt. Điều này bao gồm ảnh chụp màn hình, nhật ký trò chuyện, cơ bản là bất kỳ thứ gì bạn có thể đính kèm vào email.
 
 Nếu bất kỳ điều gì bạn muốn đính kèm khiến bạn cảm thấy xấu hổ, vui lòng che khuất nó đi.
 
-Chúng tôi sẽ xem xét vấn đề ngay khi có thể.
+Chúng tôi sẽ xem xét vấn đề càng sớm càng tốt.
 
 ## Ai đó tôi biết đang bị lạm dụng bởi một thành viên trong nhóm tình nguyện (NAT, GMT) nhưng quá sợ hãi để lên tiếng!
 
 Gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) với tất cả thông tin bạn biết và càng nhiều bằng chứng càng tốt.
 
-Nếu bạn không có bằng chứng nhưng chỉ có câu chuyện hoặc tin đồn mà bạn tin là đủ nghiêm trọng để hành động, vui lòng gửi bất kỳ email nào đến cho chúng tôi. Chúng tôi rất nghiêm túc với những khiếu nại như thế này và sẽ xem xét kỹ lưỡng mọi báo cáo.
+Nếu bạn không có bằng chứng nhưng chỉ có câu chuyện hoặc tin đồn mà bạn tin là đủ quan trọng để thực hiện, vui lòng gửi bất kỳ email nào đến cho chúng tôi. Chúng tôi rất nghiêm túc với những khiếu nại như thế này và sẽ xem xét kỹ lưỡng mọi báo cáo.
 
 ## Email của tôi đã bị bỏ qua!
 

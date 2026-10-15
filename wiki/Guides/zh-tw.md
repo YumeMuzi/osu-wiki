@@ -24,7 +24,7 @@ no_native_review_since: 84e7e8be479d7188143e72f8db15ce19981e4a10 LmanTW
 - [osu!mania 圖譜製作指南](osu!mania_mapping_guide)
 - [調整偏移值來對其節拍](Setting_the_offset_on_the_correct_beat)
 - [使用自定義打擊音效](Using_custom_hitsounds)
-- [定軸 #/8 拍的歌曲](Timing_songs_with_8-signatures)
+- [定軸 #/8 拍的歌曲](Timing_songs_with_N_per_8_time_signatures)
 
 ## 摸圖
 
@@ -37,7 +37,6 @@ no_native_review_since: 84e7e8be479d7188143e72f8db15ce19981e4a10 LmanTW
 ## 遊玩
 
 - [如果使用偏移嚮導](How_to_use_the_Offset_Wizard)
-- [電繪版購買指南](Tablet_purchase)
 - [新手教學](Beginner's_tutorial)
 
 ## Skin 製作

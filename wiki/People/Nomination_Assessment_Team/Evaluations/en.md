@@ -1,6 +1,8 @@
 # Beatmap Nominator evaluations
 
-*See also: [Becoming a Beatmap Nominator § Application process](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#application-process)*
+::: alert-note
+**See also:** [Becoming a Beatmap Nominator § Application process](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#application-process)
+:::
 
 Evaluations of those who apply to become a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) as well as current Beatmap Nominators are both carried out by members of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*). These evaluations follow a set format to ensure that every application and nominator will be reviewed regularly. All evaluations take place on the [BN website](https://bn.mappersguild.com/).
 
@@ -18,7 +20,7 @@ Every BN is reviewed regularly by members of the NAT.
 
 For Nominators on [probation](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators), or that have been issued an [activity](/wiki/People/Beatmap_Nominators/Rules#activity) warning, their next evaluation will be scheduled for roughly 1 month after being placed on probation or receiving their warning.
 
-For full Beatmap Nominators without recent warnings, their evaluations will be scheduled to occur every 3 months.
+For full Beatmap Nominators without recent warnings, their evaluations will occur every 3 months or 30 nominations, whichever comes first.
 
 The duration between evaluations is automatically scheduled by the [BN website](https://bn.mappersguild.com/). However, if there is a substantial cause for concern about a BN's performance at a sooner date, NAT members can also manually schedule an evaluation to happen sooner than normal.
 
@@ -34,7 +36,7 @@ The individual phase will show on the BN website 2 weeks before it is due, letti
 
 ### Group phase
 
-After three NAT members have submitted their evaluations, the evaluation will be moved to the group phase. During the group phase, NAT members will discuss their evaluations with each other, come to a consensus, and write evaluation feedback. The results and feedback will vary depending on the BN. If it is found a BN is not performing up to standard, they may either be given a warning or placed on probation depending on the severity of the issue.
+After three NAT members have submitted their evaluations, the evaluation will be moved to the group phase. During the group phase, NAT members will discuss their evaluations with each other, come to a consensus, and write evaluation feedback. The results and feedback will vary depending on the BN. If it is found that a BN is not performing up to standard, they may either be given a warning or be removed depending on the severity of the issue.
 
 Once the feedback is written and reviewed, it will be sent and accompany any [user group](/wiki/People/User_group) changes needed. The feedback will be delivered by the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) as an [announcement message](/wiki/Announcement_messages).
 
@@ -62,6 +64,6 @@ Nominators who resign on standard terms will have to reapply to become a BN afte
 
 ### Activity
 
-Whenever a Beatmap Nominator's evaluation is created, their activity will be checked automatically by the BN website. If it fails to meet the [minimum requirements](/wiki/People/Beatmap_Nominators/Rules#activity), then the evaluation will be automatically moved to the group phase and have its consensus set to an activity warning or a removal, depending on the activity. Then, a member of the NAT will sanity check said evaluation, and send it if there are no issues.
+Whenever a Beatmap Nominator's evaluation is created, their activity will be checked automatically by the BN website. If it fails to meet the [minimum requirements](/wiki/People/Beatmap_Nominators/Rules#activity), then that nominator will be automatically notified that they have 7 days to meet the activity requirements. Failing to meet the required activity by the end of the grace period may result in the nominator being removed on standard terms.
 
-If a Beatmap Nominator is returning from a good-term resignation and they have not reached their minimum activity within the first 30 days, a new evaluation will be created following the same procedure as above, with the consensus set to a removal.
+If a Beatmap Nominator is returning from a good-term resignation and they have not reached their minimum activity within the first 30 days, a new evaluation will be created following the same procedure as above and that nominator may be removed.

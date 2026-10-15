@@ -28,7 +28,9 @@ tags:
 
 # Account
 
-*Hauptseite: [Hilfecenter](/wiki/Help_centre)*
+::: alert-note
+**Hauptseite:** [Hilfecenter](/wiki/Help_centre)
+:::
 
 Alles, was mit deinem osu!-Account zu tun hat. Lies die unteren Abschnitte, um herauszufinden, ob es eine passende Lösung für dein Problem gibt.
 
@@ -62,7 +64,7 @@ Siehe *[Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)* 
 
 Turniersperren sind, wie der Name beschreibt, ein Verbot der Teilnahme an allen offiziell unterstützten Turnieren.
 
-Siehe den Artikel [Turniersperren](/wiki/Help_centre/Tournament_bans) für mehr Informationen zu diesem Thema.
+Siehe den Artikel [Turniersanktionen](/wiki/Help_centre/Tournament_sanctions) für mehr Informationen zu diesem Thema.
 
 ## Anmeldung {id=sign-in}
 
@@ -219,8 +221,13 @@ Das bedeutet aber nicht, dass du einen neuen Account erstellen kannst! Mehrere A
 
 ### Kann ich meinen Account löschen? {id=account-deletion}
 
-*Für mehr Informationen über die Löschung von Accounts, siehe: [osu!-Datenschutzerklärung § Ihre Rechte und Kontrolle](/wiki/Legal/Privacy#ihre-rechte-und-kontrolle).*\
-*Vorsicht: Accounts zu löschen ist dauerhaft und kann daher nicht rückgängig gemacht werden!*
+::: alert-note
+**Anmerkung:** Für mehr Informationen über die Löschung von Accounts, siehe [osu!-Datenschutzerklärung § Ihre Rechte und Kontrolle](/wiki/Legal/Privacy#ihre-rechte-und-kontrolle).
+:::
+
+::: alert-caution
+**Vorsicht:** Accounts zu löschen ist dauerhaft und kann daher nicht rückgängig gemacht werden!
+:::
 
 Ja, jeder Nutzer kann die Löschung seines Accounts durch das Senden einer E-Mail an [privacy@ppy.sh](mailto:privacy@ppy.sh) beantragen. Beachte, dass die Löschung **endgültig** ist. Das heißt, dass sie nicht aufgehoben werden kann. Einen Account zu löschen bedeutet nicht, dass du einen neuen Account erstellen kannst, da der Besitz mehrerer Accounts gegen die [Regeln](/wiki/Rules#community-regeln) verstößt. Du wirst also nicht mehr in der Lage sein, die Online-Funktionen von osu! nutzen zu können.
 

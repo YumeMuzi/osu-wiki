@@ -31,11 +31,15 @@ tags:
   - falla
   - jugabilidad
   - interfaz
+outdated_translation: true
+outdated_since: 4479d2a14a95f9ff5041641cb23fd66d0c58ba38
 ---
 
 # Cliente
 
-*Página principal: [Centro de ayuda](/wiki/Help_centre)*
+::: alert-note
+**Página principal:** [Centro de ayuda](/wiki/Help_centre)
+:::
 
 ¿Tienes problemas con el cliente del juego? Averigua si tu problema se encuentra entre los más comunes de nuestros usuarios.
 
@@ -156,7 +160,10 @@ Para forzar de forma segura la recreación de tu base de datos de los beatmaps, 
 7. Ponle el nombre que quieras. No importa, siempre que no se llame «osu!». Luego presiona `Entrar`.
 8. Vuelve a iniciar osu!.
 
-*Nota: se añadió una corrección para esto en [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) el 19 de mayo de 2021. Si sigues teniendo este problema, [háznoslo saber](https://github.com/ppy/osu-stable-issues/issues).*
+::: alert-notice
+**Aviso**
+Se añadió una corrección para esto en [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) el 19 de mayo de 2021. Si sigues teniendo este problema, [háznoslo saber](https://github.com/ppy/osu-stable-issues/issues).
+:::
 
 ### ¡Mi lista de canciones no para de moverse! {id=songs-list-scrolling}
 
@@ -307,6 +314,12 @@ Desafortunadamente, si activas la sincronización vertical o juegas en modo vent
 
 Las últimas tarjetas gráficas de NVidia tienen una opción global en el panel de control de NVidia para establecer la frecuencia de refresco global a un valor llamado «Rápido», que también solucionará este problema.
 
+### ¡He cambiado a los drivers nativos para tabletas de osu!(lazer) y ahora mi área ha cambiado! {id=tablet-area}
+
+osu!(lazer) lleva integrado los drivers de [OpenTabletDriver](https://opentabletdriver.net/). Si antes no usabas estos drivers, esto ocurre porque tu tableta no está configurada correctamente para los drivers nativos.
+
+Para obtener más información sobre cómo convertir correctamente el área antigua de tu tableta a la configuración de OpenTabletDriver, consulta [Conversión de áreas para tabletas](/wiki/Guides/Tablet_conversion).
+
 ## Funciones en línea {id=online-features}
 
 ### ¡No puedo iniciar sesión ni conectarme al juego! {id=cannot-sign-in}
@@ -339,7 +352,7 @@ Consulta el [artículo de ayuda oficial](https://support.kaspersky.com/15163#blo
 
 #### Permitir un programa a través de McAfee {id=firewall-whitelist-mcafee}
 
-Consulta el [artículo de la base de conocimientos oficial de McAfee sobre el tema](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
+Consulta el [artículo de la base de conocimientos oficial de McAfee sobre el tema](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html).
 
 ### ¡He añadido a osu! a mi cortafuegos, pero sigo sin poder conectarme al juego! {id=sign-in-unknown-cause}
 

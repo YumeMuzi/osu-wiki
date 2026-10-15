@@ -123,7 +123,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=wjntf6P2ANg) [takehirotei - Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/takehirotei/altra-vita) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=wjntf6P2ANg) [takehirotei - Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331)
 
 |  |  |
 | --: | :-- |
@@ -207,7 +207,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=YckVPkTRuYY) [ArXe - Locus Amoenus (feat. Megurine Luka)](https://osu.ppy.sh/beatmapsets/2412292)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/notarxe/locus-amoenus-feat-megurine-luka) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=YckVPkTRuYY) [ArXe - Locus Amoenus (feat. Megurine Luka)](https://osu.ppy.sh/beatmapsets/2412292)
 
 |  |  |
 | --: | :-- |
@@ -235,7 +235,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [kanase. - Lost Night Meteor](https://osu.ppy.sh/beatmapsets/2412691)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/user-556941895/lost-night-meteor) [kanase. - Lost Night Meteor](https://osu.ppy.sh/beatmapsets/2412691)
 
 |  |  |
 | --: | :-- |
@@ -291,7 +291,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=UU-kEJxTtrI) [kanemiko - distance of -RADIAL-](https://osu.ppy.sh/beatmapsets/2412247)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/kanemiko/distance-of-radial) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=UU-kEJxTtrI) [kanemiko - distance of -RADIAL-](https://osu.ppy.sh/beatmapsets/2412247)
 
 |  |  |
 | --: | :-- |
@@ -346,7 +346,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=G2RD126uK0A) [Juwubi - H1GH D!VE](https://osu.ppy.sh/beatmapsets/2412255)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/juwubimusic/highdive) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=G2RD126uK0A) [Juwubi - H1GH D!VE](https://osu.ppy.sh/beatmapsets/2412255)
 
 |  |  |
 | --: | :-- |
@@ -429,7 +429,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [Xyris - Vitality Charger (feat. Hanakuma Chifuyu)](https://osu.ppy.sh/beatmapsets/2412277)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/itsxyris/vitality-charger) [Xyris - Vitality Charger (feat. Hanakuma Chifuyu)](https://osu.ppy.sh/beatmapsets/2412277)
 
 |  |  |
 | --: | :-- |
@@ -483,7 +483,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [MetaHumanBoi - kinetic flux](https://osu.ppy.sh/beatmapsets/2412316)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/metahumanboi/kinetic-flux) [MetaHumanBoi - kinetic flux](https://osu.ppy.sh/beatmapsets/2412316)
 
 |  |  |
 | --: | :-- |
@@ -567,7 +567,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [Xeven - Become One Again (feat. Hatsune Miku)](https://osu.ppy.sh/beatmapsets/2412365)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/xeventii/oneagain) [Xeven - Become One Again (feat. Hatsune Miku)](https://osu.ppy.sh/beatmapsets/2412365)
 
 |  |  |
 | --: | :-- |
@@ -589,13 +589,13 @@ This contest has come to an end and resulted in the following podium:
 | **Mapper / storyboarder** | ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) |
 | **VFX artist** | ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) |
 
-[![Artwork of furtrash - LONG LIVE THE KING](img/banners/LONG_LIVE_THE_KING.jpg)](https://osu.ppy.sh/beatmapsets/2412245)
+[![Artwork of fur:trash - LONG LIVE THE KING](img/banners/LONG_LIVE_THE_KING.jpg)](https://osu.ppy.sh/beatmapsets/2412245)
 
 ::: Infobox
 
 <!-- lint ignore heading-increment -->
 
-#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/furtrash/long-live-the-king) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=3eR9n0f5D0E) [furtrash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/furtrash/long-live-the-king) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=3eR9n0f5D0E) [fur:trash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245)
 
 |  |  |
 | --: | :-- |
@@ -651,7 +651,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [Darkney - Prism Fall](https://osu.ppy.sh/beatmapsets/2412267)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/darkney/locusmfc320) [Darkney - Prism Fall](https://osu.ppy.sh/beatmapsets/2412267)
 
 |  |  |
 | --: | :-- |
@@ -761,7 +761,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=jjuDeff7Mec) [trung-nova - Starry Comet](https://osu.ppy.sh/beatmapsets/2412271)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/trung-nova_727/starry-comet) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=jjuDeff7Mec) [trung-nova - Starry Comet](https://osu.ppy.sh/beatmapsets/2412271)
 
 |  |  |
 | --: | :-- |
@@ -789,7 +789,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [RRolanDD - Almom](https://osu.ppy.sh/beatmapsets/2412270)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/rrolandd-834889584/almomsingle) [RRolanDD - Almom](https://osu.ppy.sh/beatmapsets/2412270)
 
 |  |  |
 | --: | :-- |
@@ -816,7 +816,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [Riprider - ENC0DED : ENTR0PY](https://osu.ppy.sh/beatmapsets/2412246)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/riprider_music/enc0dedentr0py) [![Bandcamp](/wiki/shared/link/Bandcamp.png "Bandcamp")](https://riprider.bandcamp.com/track/enc0ded-entr0py) [Riprider - ENC0DED : ENTR0PY](https://osu.ppy.sh/beatmapsets/2412246)
 
 |  |  |
 | --: | :-- |
@@ -844,7 +844,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=uzkaaUZBjNk) [Chamiracqua - The Epiphany (feat. smoothycloud)](https://osu.ppy.sh/beatmapsets/2412261)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/chamiracqua/the-epiphany) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=uzkaaUZBjNk) [Chamiracqua - The Epiphany (feat. smoothycloud)](https://osu.ppy.sh/beatmapsets/2412261)
 
 |  |  |
 | --: | :-- |
@@ -872,7 +872,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=xXmAgu0R0Ko) [rikvinyas - Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/rikvinyas/dragon-witch) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=xXmAgu0R0Ko) [rikvinyas - Ryuu no Majo](https://osu.ppy.sh/beatmapsets/2412231)
 
 |  |  |
 | --: | :-- |
@@ -923,7 +923,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [agu - unbound](https://osu.ppy.sh/beatmapsets/2412346)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/cuteagu/unbound) [agu - unbound](https://osu.ppy.sh/beatmapsets/2412346)
 
 |  |  |
 | --: | :-- |
@@ -1006,7 +1006,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [sugosugiii - Maelstrom](https://osu.ppy.sh/beatmapsets/2412254)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/sugosugiii/maelstrom) [sugosugiii - Maelstrom](https://osu.ppy.sh/beatmapsets/2412254)
 
 |  |  |
 | --: | :-- |
@@ -1144,7 +1144,7 @@ This contest has come to an end and resulted in the following podium:
 
 <!-- lint ignore heading-increment -->
 
-#### [Evangelion_guy - it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/evangelion_guy/it-doesnt-feel-like-home-to-me) [Evangelion_guy - it doesn't feel like home to me](https://osu.ppy.sh/beatmapsets/2412237)
 
 |  |  |
 | --: | :-- |
@@ -1266,7 +1266,7 @@ This contest has come to an end and resulted in the following podium:
 | 19 | [aidolon - Replay](https://osu.ppy.sh/beatmapsets/2412321) | 1541.2 | 53% |
 | 20 | [Krimek - Dahlia (feat. eili)](https://osu.ppy.sh/beatmapsets/2412294) | 1537.3 | 53% |
 | 21 | [RRolanDD - Almom](https://osu.ppy.sh/beatmapsets/2412270) | 1516.1 | 52% |
-| 22 | [furtrash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1511.5 | 50% |
+| 22 | [fur:trash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1511.5 | 50% |
 | 23 | [Chamiracqua - The Epiphany (feat. smoothycloud)](https://osu.ppy.sh/beatmapsets/2412261) | 1508.9 | 51% |
 | 24 | [Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) | 1474.4 | 47% |
 | 25 | [WangleLine - Super Kitten Travel Hex](https://osu.ppy.sh/beatmapsets/2412252) | 1456.1 | 44% |
@@ -1311,7 +1311,7 @@ This contest has come to an end and resulted in the following podium:
 | 17 | [nm-y - Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263) | 1546.3 | 55% |
 | 18 | [Star* aka liaoxingyao - Inochi](https://osu.ppy.sh/beatmapsets/2412248) | 1541.6 | 55% |
 | 19 | [trung-nova - Starry Comet](https://osu.ppy.sh/beatmapsets/2412271) | 1523.8 | 53% |
-| 20 | [furtrash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1511.2 | 50% |
+| 20 | [fur:trash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1511.2 | 50% |
 | 21 | [Maemi no Yume - Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) | 1503.7 | 51% |
 | 22 | [Xeven - Become One Again (feat. Hatsune Miku)](https://osu.ppy.sh/beatmapsets/2412365) | 1498.1 | 49% |
 | 23 | [Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) | 1498.1 | 49% |
@@ -1348,7 +1348,7 @@ This contest has come to an end and resulted in the following podium:
 | 7 | [nominomu - against cacophony (feat. Mai)](https://osu.ppy.sh/beatmapsets/2412236) | 1600.7 | 62% |
 | 8 | [nm-y - Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263) | 1599 | 61% |
 | 9 | [Xyris - Vitality Charger (feat. Hanakuma Chifuyu)](https://osu.ppy.sh/beatmapsets/2412277) | 1595.9 | 61% |
-| 10 | [furtrash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1593.3 | 60% |
+| 10 | [fur:trash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1593.3 | 60% |
 | 11 | [Redside - First Adventure](https://osu.ppy.sh/beatmapsets/2412285) | 1585.7 | 60% |
 | 12 | [takehirotei - Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) | 1577.6 | 59% |
 | 13 | [Fox Rush - Paint The Ocean Blue (feat. Cassylish)](https://osu.ppy.sh/beatmapsets/2412259) | 1577.4 | 59% |

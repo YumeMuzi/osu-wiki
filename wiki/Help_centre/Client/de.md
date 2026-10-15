@@ -24,11 +24,15 @@ tags:
   - Spiel
   - Verbindung
   - Benutzeroberfläche
+outdated_translation: true
+outdated_since: 93ee94cafcbd971726f274c065dcf20c3587b5ad
 ---
 
 # Client
 
-*Hauptseite: [Hilfecenter](/wiki/Help_centre)*
+::: alert-note
+**Hauptseite:** [Hilfecenter](/wiki/Help_centre)
+:::
 
 Hast du Probleme mit dem Spiel-Client? Finde heraus, ob dein Problem unter den häufigsten Problemen unserer Nutzer aufgelistet ist.
 
@@ -149,7 +153,10 @@ Um die Beatmap-Datenbank gefahrlos zu einer Neuerstellung zu zwingen, versuche d
 7. Nenne sie um wie du möchtest. Es spielt keine Rolle, solange sie nicht "osu!" heißt. Anschließend drücke `Enter`.
 8. Starte osu! erneut.
 
-*Anmerkung: eine Fehlerbehebung dafür wurde in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) am 19. Mai 2021 hinzugefügt. Wenn du diesem Problem immer noch begegnest, dann [lasse uns das bitte wissen](https://github.com/ppy/osu-stable-issues/issues).*
+::: alert-notice
+**Hinweis**
+Eine Fehlerbehebung dafür wurde in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) am 19. Mai 2021 hinzugefügt. Wenn du diesem Problem immer noch begegnest, dann [lasse uns das bitte wissen](https://github.com/ppy/osu-stable-issues/issues).
+:::
 
 ### Meine Songliste scrollt weiter! {id=songs-list-scrolling}
 
@@ -332,7 +339,7 @@ Bitte lies den [offiziellen Hilfeartikel](https://support.kaspersky.com/15163#bl
 
 #### Zulassen eines Programms durch McAfee {id=firewall-whitelist-mcafee}
 
-Bitte informiere dich über den [offiziellen Wissensbasiseintrag zu diesem Thema](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view) von McAfee.
+Bitte informiere dich über den [offiziellen Wissensbasiseintrag zu diesem Thema](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html) von McAfee.
 
 ### Ich habe osu! zu meiner Firewall hinzugefügt, aber ich kann mich immer noch nicht mit dem Spiel verbinden! {id=sign-in-unknown-cause}
 

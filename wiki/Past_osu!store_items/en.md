@@ -68,18 +68,29 @@ The collection featured a range of products such as:
 
 ![osu! tablet](img/osu-tablet.jpg)
 
-*See also: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*\
-*For troubleshooting steps related to the product, see: [Store archive § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)*
+::: alert-note
+**See also:** [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)
+:::
+
+::: alert-note
+**Note:** For troubleshooting steps related to the product, see [Store archive § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)
+:::
 
 The **osu!tablet** was an official osu!-branded graphic tablet made in partnership with the electronics company [HUION](https://www.huion.com/). It was designed by ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) and was released as an affordable alternative for those who wanted to purchase a graphic tablet simply to play osu!.
 
-The product ran for two versions: the original "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", which was first sold in 2013, and the updated [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) in 2016 before it was discontinued in 2017 citing [a shift in development focus](https://twitter.com/ppy/status/846190076853870592).
+The product ran for two versions: the original "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", which was first sold in 2013, and the updated [osu!tablet v2](https://twitter.com/ppy/status/744778218524160000) in 2016 before it was discontinued in 2017 citing [a shift in development focus](https://twitter.com/ppy/status/846190076853870592).
+
+![osu! tablet v2](img/osu-tablet-v2.jpg)
+
+The first version in 2013 featured the osu!tablet (white), a pen with a nib, 3 replaceable nibs, but required a AA battery for the pen (which was included but would add weight to the pen). The second version in 2016 featured the osu!tablet (black), a pen with a nib, 3 replaceable nibs, but the pen needed to be charged via USB (included).
 
 ## osu! beatmap blueprints
 
 ![osu! beatmap blueprints](img/osu-beatmap-blueprints.jpg)
 
-*For the news post, see: [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)*
+::: alert-note
+**Note:** For the news post, see [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)
+:::
 
 The **osu! beatmap blueprints** were reusable sticker sets featuring various elements of the game such as hitcircles, sliders, approach circles, [hit judgements](/wiki/Gameplay/Judgement/osu!), and the osu! logo itself. The product was sold in 2015 as a means for users to create "life-sized beatmaps in real life".
 
@@ -89,8 +100,13 @@ Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/
 
 ![osu!keyboard](img/osu-keyboard.jpg)
 
-*For the news post, see: [osu!weekly #12](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)*\
-*For troubleshooting steps related to the product, see: [Store archive § osu!keyboard](/wiki/Help_centre/Store/Store_archive#osu!keyboard)*
+::: alert-note
+**Note:** For the news post, see [osu!weekly #12](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
+:::
+
+::: alert-note
+**Note:** For troubleshooting steps related to the product, see [Store archive § osu!keyboard](/wiki/Help_centre/Store/Store_archive#osu!keyboard)
+:::
 
 The **osu!keyboard**, also known as the **osu!nono**, was a two-buttoned mechanical keyboard specifically designed for osu! play. Each purchase of the osu!keyboard came along with [a pair of osu!-branded keycaps](http://puu.sh/jnEsK/1153c92c10.png).
 
@@ -100,8 +116,13 @@ The product was first sold in 2015 before it was discontinued in 2017 citing [a 
 
 ![osu!go](img/osu-go.jpg)
 
-*For the news post, see: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*\
-*For troubleshooting steps related to the product, see: [Store archive § osu!go](/wiki/Help_centre/Store/Store_archive#osu!go)*
+::: alert-note
+**Note:** For the news post, see [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
+:::
+
+::: alert-note
+**Note:** For troubleshooting steps related to the product, see [Store archive § osu!go](/wiki/Help_centre/Store/Store_archive#osu!go)
+:::
 
 The **osu!go** was a robust USB stick pre-loaded with the osu! client. It boasted a transfer speed that was close to that of SSDs and was designed for players who wanted to play osu! on-the-go (hence its name).
 
@@ -111,7 +132,9 @@ The product was sold in 2016 along with the osu!mug.
 
 ![osu!mug](img/osu-mug.jpg)
 
-*For the news post, see: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*
+::: alert-note
+**Note:** For the news post, see [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
+:::
 
 The **osu!mug** was a special edition multi-purpose drinkware adorned by illustrations of [pippi](/wiki/Mascots#pippi). The product was sold in 2016 along with the osu!go.
 
@@ -119,7 +142,9 @@ The **osu!mug** was a special edition multi-purpose drinkware adorned by illustr
 
 ![Limited edition osu! plushies](img/osu-limited-edition-plushie.jpg)
 
-*For the news post, see: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies) and [osu! cookie and pippi plushies are back for round 2!](https://osu.ppy.sh/home/news/2024-11-28-another-batch-of-osu-plushies)*
+::: alert-note
+**Note:** For the news post, see [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies) and [osu! cookie and pippi plushies are back for round 2!](https://osu.ppy.sh/home/news/2024-11-28-another-batch-of-osu-plushies)
+:::
 
 The **limited edition osu! plushies** were a trio of plush dolls each featuring [pippi](/wiki/Mascots#pippi), [Taikonator](/wiki/Mascots#taikonator), and the [osu! cookie](/wiki/Client/Interface/Cookie). The product was sold in early 2023 through pre-orders and was made in partnership with the crowdfunding platform [Makeship](https://www.makeship.com/).
 

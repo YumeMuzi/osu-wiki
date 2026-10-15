@@ -14,8 +14,13 @@ tags:
 
 # Shoparchiv
 
-*Hauptseite: [osu!store und Merchandise](/wiki/Help_centre/Store)*\
-*Anmerkung: Diese Produkte werden nicht mehr zum Verkauf im osu!store angeboten. Für die vollständige Liste an Artikeln, die in der Vergangenheit im osu!store verkauft wurden, siehe: [Vergangene Artikel aus dem osu!store](/wiki/Past_osu!store_items)*
+::: alert-note
+**Hauptseite:** [osu!store und Merchandise](/wiki/Help_centre/Store)
+:::
+
+::: alert-notice
+**Anmerkung:** Diese Produkte werden nicht mehr zum Verkauf im osu!store angeboten. Für die vollständige Liste an Artikeln, die in der Vergangenheit im osu!store verkauft wurden, siehe: [Vergangene Artikel aus dem osu!store](/wiki/Past_osu!store_items)
+:::
 
 Hast du Schwierigkeiten mit einem Produkt aus dem osu!store? Prüfe, ob es eine Lösung für dein Problem gibt!
 
@@ -114,7 +119,7 @@ Um das zu beheben, stelle sicher, dass das osu!go-Gerät ausgewählt ist, klicke
 
 **Du musst das Gerät von Grund auf neu partitionieren.**
 
-Bitte folge [dieser Anleitung](https://tails.boum.org/doc/reset/windows/index.de.html) für Details, wie man das macht.
+Bitte folge [dieser Anleitung](https://tails.net/doc/first_steps/reset/windows/index.de.html) für Details, wie man das macht.
 
 ### Ich habe das osu!go-Gerät neu formatiert und es wird in der Datenträgerverwaltung angezeigt {id=osu!go-clean}
 

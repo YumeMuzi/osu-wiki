@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e7163973aa4c854dcc0455e3f696b608bf0852f7
+---
+
 # Reportar abuso
 
 ## No sé si debería reportar esto o no
@@ -28,7 +33,7 @@ Si sientes que los comentarios/avances fueron altamente inapropiados o si eres u
 
 ### En una publicación dentro de los foros de osu!
 
-[Reporta la publicación](/wiki/Reporting_bad_behaviour#foro) a nuestro [equipo de moderación global](/wiki/People/Global_Moderation_Team) lo antes posible.
+[Reporta la publicación](/wiki/Reporting_bad_behaviour#foros) a nuestro [equipo de moderación global](/wiki/People/Global_Moderation_Team) lo antes posible.
 
 Para hacerlo, haz clic en el botón `Reportar publicación` en la esquina superior derecha de la publicación del foro.
 

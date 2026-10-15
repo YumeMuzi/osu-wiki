@@ -12,7 +12,10 @@ tags:
 
 Il existe de nombreux raccourcis dans osu! qui peuvent être utilisés en jeu ou depuis n'importe quel menu. Ils sont listés ci-dessous avec leurs fonctions.
 
-*Remarque : Cet article répertorie les raccourcis clavier par défaut. Vous pouvez modifier certains d'entre eux dans les [options](/wiki/Client/Options).*
+::: alert-notice
+**Note**
+Cet article répertorie les raccourcis clavier par défaut. Vous pouvez modifier certains d'entre eux dans les [options](/wiki/Client/Options).
+:::
 
 ## Général
 
@@ -32,7 +35,7 @@ Ces raccourcis fonctionnent partout :
 | `Shift` + `F12` | Prend une capture d'écran et l'upload sur le serveur à des fins de partage. La capture d'écran sera également enregistrée localement. Cela ouvrira la capture d'écran sur votre navigateur web. |
 | `Insert` | C'est la [boss key](https://fr.wikipedia.org/wiki/Boss_key). Réduit le client dans la zone de notification. Cela rendra également le jeu muet. |
 | `Shift` + `F1` | Ouvre [osu!status](https://twitter.com/osustatus) sur votre navigateur web. (Uniquement lorsqu'une erreur de connexion apparaît). |
-| `Ctrl` + `O` | Ouvre la barre latérale des options. Vous ne pouvez pas entrer dans l'assistant de décalage si vous n'êtes pas dans le menu principal. |
+| `Ctrl` + `O` | Ouvre la barre latérale des options. Vous ne pouvez pas entrer dans [l'assistant de décalage](/wiki/Client/Options/Offset_Wizard) si vous n'êtes pas dans le menu principal. |
 
 ## Menu principal
 
@@ -64,7 +67,10 @@ Ces raccourcis fonctionnent partout :
 
 ## Sélection des beatmaps
 
-*Remarque : Toutes ces fonctions ne fonctionnent pas dans l'écran de sélection des beatmaps du mode Multi.*
+::: alert-notice
+**Note**
+Toutes ces fonctions ne fonctionnent pas dans l'écran de sélection des beatmaps du mode Multi.
+:::
 
 | Raccourci | Action |
 | :-- | :-- |
@@ -93,9 +99,17 @@ Ces raccourcis fonctionnent partout :
 
 ### Modificateurs de jeu
 
-*Page principale : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
-*Note : Appuyer sur la touche de raccourci la fera Activer/Désactiver. Vous devez être dans le menu des modificateurs du jeu pour utiliser ces raccourcis.*\
-*Remarque : Target practice (osu!), 1K et 2K (osu!mania), Co-op (osu!mania), et Mirror (osu!mania) n'ont pas de raccourcis.*
+::: alert-note
+**Page principale** : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-notice
+**Note** : Appuyer sur la touche de raccourci la fera Activer/Désactiver. Vous devez être dans le menu des modificateurs du jeu pour utiliser ces raccourcis.
+:::
+
+::: alert-notice
+**Remarque** : Target practice (osu!), 1K et 2K (osu!mania), Co-op (osu!mania), et Mirror (osu!mania) n'ont pas de raccourcis.
+:::
 
 | Raccourci | Mod |
 | :-- | :-- |
@@ -145,7 +159,9 @@ Ces raccourcis fonctionnent partout :
 
 ## Éditeur de beatmaps
 
-*Page principale : [Éditeur de beatmaps](/wiki/Client/Beatmap_editor)*
+::: alert-note
+**Page principale** : [Éditeur de beatmaps](/wiki/Client/Beatmap_editor)
+:::
 
 ### Général
 

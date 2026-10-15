@@ -4,7 +4,9 @@ Bienvenue dans le tutoriel pour débutants d'osu! Le monde d'osu! peut parfois �
 
 ## Types d'entrées
 
-*Page principale : [Styles de jeu](/wiki/Gameplay/Play_style)*
+::: alert-note
+**Page principale** : [Styles de jeu](/wiki/Gameplay/Play_style)
+:::
 
 Par défaut, beaucoup de joueurs commenceront par utiliser la souris, car c'est de loin l'outil de visée le plus rapide. Mais il existe en fait plusieurs moyens d'entrée pour contrôler le curseur et faire apparaître les cercles :
 
@@ -28,7 +30,7 @@ Le jeu à la souris a tendance à se battre avec :
 
 ### Jouer avec une tablette
 
-Si vous utilisez une tablette, essayez de choisir une zone de la tablette où vous pouvez jouer confortablement. Si vous avez l'intention d'acheter une tablette pour jouer à osu!, consultez le guide [Achat de la tablette](/wiki/Guides/Tablet_purchase). De plus, achetez quelques plumes de rechange, car vous ne savez jamais quand vous en aurez besoin, car elles ont tendance à s'user rapidement, surtout en cas de jeu très actif. Bien que vous puissiez utiliser la tablette elle-même pour frapper les cercles, la plupart des joueurs préfèrent utiliser un clavier, dont nous parlerons un peu plus loin. Le jeu sur tablette a tendance à exceller dans les domaines suivants :
+Si vous utilisez une tablette, essayez de choisir une zone de la tablette où vous pouvez jouer confortablement. De plus, achetez quelques plumes de rechange, car vous ne savez jamais quand vous en aurez besoin, car elles ont tendance à s'user rapidement, surtout en cas de jeu très actif. Bien que vous puissiez utiliser la tablette elle-même pour frapper les cercles, la plupart des joueurs préfèrent utiliser un clavier, dont nous parlerons un peu plus loin. Le jeu sur tablette a tendance à exceller dans les domaines suivants :
 
 - Il n'y a pas de dérive du curseur.
 - Une précision des mouvements et vitesse.
@@ -84,7 +86,9 @@ N'ayez pas peur de pratiquer quelque chose qui vous fait toujours rater pour une
 
 ### Global Offset
 
-*Page principale : [Comment utiliser l'Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard)*
+::: alert-note
+**Page principale** : [Comment utiliser l'Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard)
+:::
 
 Selon les appareils que vous utilisez pour jouer à osu!, il se peut que les cercles ne soient pas tout à fait en phase avec la musique. Pour corriger cela, vous pouvez modifier la valeur du décalage global dans les [options](/wiki/Client/Options). Le global offset modifie le moment où la première note apparaît sur les beatmaps (plus tôt ou plus tard que la valeur par défaut), ce qui retarde le reste des notes de la même quantité. Une valeur de décalage négative fera apparaître les notes légèrement plus tard, et une valeur positive les fera apparaître plus tôt.
 
@@ -96,13 +100,17 @@ Ajustez votre global offset jusqu'à ce que vous en soyez satisfait. L'obtention
 
 ### Entrée brute
 
-*Voir également : [Options](/wiki/Client/Options#pointage)*
+::: alert-note
+**Voir également** : [Options](/wiki/Client/Options#pointage)
+:::
 
 Une caractéristique souvent négligée du jeu est la fonction d'entrée brute. Elle permet la lecture directe de votre périphérique d'entrée dans osu! lui-même. Vous pouvez également l'utiliser si vous n'aimez pas la façon dont Windows gère le curseur de votre souris, ou particulièrement recommandé si vous utilisez une tablette. Essayez-la et jouez quelques beatmaps avec elle, vous pourriez vous sentir beaucoup plus à l'aise avec elle !
 
 ### Skins
 
-*Voir également : [Skinning](/wiki/Skinning)*
+::: alert-note
+**Voir également** : [Skinning](/wiki/Skinning)
+:::
 
 Il y a beaucoup, beaucoup de skins parmi lesquels choisir ; vous pouvez les trouver sur les forums, dans le tchat, ou même en demandant aux autres utilisateurs ! Bien qu'ils n'améliorent pas votre jeu, ils peuvent vous aider à vous motiver ou à rendre le jeu plus agréable à regarder. Ou, si vous préférez ne pas avoir beaucoup de HUD, vous pouvez trouver un skin avec une approche minimale. Vous pouvez même trouver des skins créés par des [professionnels](https://osu.ppy.sh/community/forums/topics/87675) et voir ce qui fait le succès de ces skins. Certains skins ont été construits pour faciliter la vue, tandis que d'autres sont excentriques et juste pour le plaisir. Hélas, c'est une autre façon de tirer plus de plaisir d'osu! et de rendre votre expérience en gravissant les échelons un peu plus agréable.
 

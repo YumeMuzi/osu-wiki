@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: d685bfe83f7122680c9cd6f03302682063de11ce
----
-
 # Spielmodi
 
 osu! hat vier integrierte **Spielmodi** mit verschiedenen Mechaniken, die ursprünglich von anderen Rhythmusspielen inspiriert sind:
@@ -25,7 +20,9 @@ Um zwischen den Modi zu wechseln, klicke in osu!(stable) auf den Button `Mode` u
 
 ## ![][osu!] osu!
 
-*Hauptseite: [osu!](osu!)*
+::: alert-note
+**Hauptseite:** [osu!](osu!)
+:::
 
 *osu!* ist der Standardmodus, bei dem Spieler zum Beat der Musik Kreise klicken, Slider halten und Spinner drehen müssen. Er basiert auf dem originalen Rhythmusspiel *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* von [iNiS](https://en.wikipedia.org/wiki/INiS). osu! hat sein eigenes Maskottchen namens [pippi](/wiki/Mascots#pippi), einem pink/schwarzhaarigen Mädchen.
 
@@ -33,7 +30,9 @@ Um zwischen den Modi zu wechseln, klicke in osu!(stable) auf den Button `Mode` u
 
 ## ![][osu!taiko] osu!taiko
 
-*Hauptseite: [osu!taiko](osu!taiko)*
+::: alert-note
+**Hauptseite:** [osu!taiko](osu!taiko)
+:::
 
 *osu!taiko* simuliert das Spielen einer echten Trommel, bei der Spieler eine Tastatur oder Trommel nutzen, um verschiedenfarbige Kreise auf einem einzigen Förderband zu treffen. Er basiert auf der Spielreihe *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)*, die von [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) produziert wurde. Das Maskottchen von osu!taiko ist [Mocha](/wiki/Mascots#mocha), ein grünhaariges Mädchen in einem Kimono, das Trommelstöcke hält.
 
@@ -41,15 +40,19 @@ Um zwischen den Modi zu wechseln, klicke in osu!(stable) auf den Button `Mode` u
 
 ## ![][osu!catch] osu!catch
 
-*Hauptseite: [osu!catch](osu!catch)*
+::: alert-note
+**Hauptseite:** [osu!catch](osu!catch)
+:::
 
-In *osu!catch* fallen Früchte verschiedener Sorten vom oberen Bildschirmrand herab und der Spieler muss sie zum Beat fangen. Zu diesem Zweck kontrolliert er einen Fänger mit Teller auf dem Kopf, um die besagten Früchte einzufangen. Dieser Modus basiert lose auf einem Minispiel innerhalb einer [Beatmania](https://en.wikipedia.org/wiki/Beatmania)-Simulation, wovon man glaubt, dass sie wiederum auf dem Modus *EZ2CATCH* aus der [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ)-Serie basiert. Das Maskottchen von osu!catch ist [Yuzu](/wiki/Mascots#yuzu), ein blauhaariger Junge.
+Beim Spielmodus *osu!catch* müssen Spieler einen Fänger steuern, um Früchte verschiedener Sorten, die vom oberen Bildschirmrand herabfallen, im Beat zu sammeln. Dieser Modus ist lose an das Minispiel "Catch It!!" aus den frühen Versionen von [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm] (eine [Beatmania](https://en.wikipedia.org/wiki/Beatmania)-Simulation für PC) angelehnt, die wiederum auf dem Modus *EZ2CATCH* aus dem [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ)-Arcadesystem basiert. Das Maskottchen von osu!catch ist [Yuzu](/wiki/Mascots#yuzu), ein blauhaariger Junge.
 
 ![Gameplay von osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch-Gameplay")
 
 ## ![][osu!mania] osu!mania
 
-*Hauptseite: [osu!mania](osu!mania)*
+::: alert-note
+**Hauptseite:** [osu!mania](osu!mania)
+:::
 
 *osu!mania* ist ein vertikal scrollender Rhythmusspielmodus (VSRG), der als Klavier-Simulator konzipiert wurde. Er wurde vor allem von [woc2006](https://osu.ppy.sh/users/1105845) [vorgestellt sowie implementiert](https://osu.ppy.sh/community/forums/topics/100751) und basiert auf einer Reihe Förderband-artiger Rhythmusspiele (nämlich [Dance Dance Revolution](https://de.wikipedia.org/wiki/Dance_Dance_Revolution) und [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Die Maskottchen von osu!mania sind die Zwillinge [Mani und Mari](/wiki/Mascots#mani-&-mari), die beide violettes und hellviolettes Haar haben.
 
@@ -60,6 +63,10 @@ In *osu!catch* fallen Früchte verschiedener Sorten vom oberen Bildschirmrand he
 Mit `.dll`-Dateien kann man in osu!(lazer) weitere Spielmodi (auch genannt Rulesets) manuell installieren. Durch sie hat man neue Möglichkeiten, das Spiel und seine Beatmaps zu spielen. Benutzerdefinierte Spielmodi, ähnlich wie die Hauptspielmodi, sind oft von anderen Rhythmusspielen inspiriert.
 
 Eine vollständige Liste aller benutzerdefinierten Spielmodi kann [dieser GitHub-Diskussion](https://github.com/ppy/osu/discussions/13096) entnommen werden.
+
+## Referenzen
+
+[^rdm]: [YouTube-Video von peppy (15.10.2008) "rdm catch it! mode"](https://www.youtube.com/watch?v=ZEgzSYiWBtM).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

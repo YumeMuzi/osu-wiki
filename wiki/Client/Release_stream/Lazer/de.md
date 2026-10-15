@@ -12,8 +12,9 @@ tags:
 
 # Updatequelle lazer
 
-*Für eine Liste an neuen Funktionen und allgemeinen Fragen zum neuen Client selbst, siehe: [Hilfecenter/Umstellung auf lazer](/wiki/Help_centre/Upgrading_to_lazer).*\
-*Für eine Liste der Änderungen an den Spielmechaniken, siehe: [Unterschiede im Gameplay in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+::: alert-note
+**Anmerkung:** Für eine Liste an neuen Funktionen und allgemeinen Fragen zum neuen Client selbst, siehe [Hilfecenter/Umstellung auf lazer](/wiki/Help_centre/Upgrading_to_lazer).
+:::
 
 ::: Infobox
 

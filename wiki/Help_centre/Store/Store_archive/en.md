@@ -12,8 +12,13 @@ tags:
 
 # Store archive
 
-*Main page: [osu!store and merchandise](/wiki/Help_centre/Store)*\
-*Note: These products are no longer available for purchase from the osu!store. For the full list of items that were sold by the osu!store in the past, see: [Past osu!store items](/wiki/Past_osu!store_items)*
+::: alert-note
+**Main page:** [osu!store and merchandise](/wiki/Help_centre/Store)
+:::
+
+::: alert-notice
+**Note:** These products are no longer available for purchase from the osu!store. For the full list of items that were sold by the osu!store in the past, see: [Past osu!store items](/wiki/Past_osu!store_items)
+:::
 
 Having trouble with a product from the osu!store? Check if there's an available solution to your problem!
 
@@ -112,7 +117,7 @@ To fix this, ensure you have the osu!go device selected, right-click on the RAW 
 
 **You will need to partition the device from scratch.**
 
-Please follow [this guide](https://tails.boum.org/doc/reset/windows/index.en.html) for details on how to do that.
+Please follow [this guide](https://tails.net/doc/first_steps/reset/windows/index.en.html) for details on how to do that.
 
 ### I've reformatted the osu!go device and it now shows up in Disk Management {id=osu!go-clean}
 

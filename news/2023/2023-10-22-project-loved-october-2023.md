@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: October 2023"
 date: 2023-10-22 10:00:00 +0000
+series: project_loved
 ---
 
 Surrender to the spirits of Halloween with some spooky Loved picks! 👻🎃
@@ -170,7 +171,7 @@ Do you know what to build on Shirakami Fubuki in Holocure? I have been strugglin
 182 BPM, 2:51 | 2.52★ – 7.20★\
 *description written by [Librarian](https://osu.ppy.sh/users/10083084)*
 
-"Hello, and welcome to the *Wildcard* Lobotomy Corporation play through! It's day 13, and I just got this awesome *ZAYIN* abnormality named Plague Doctor. I absolutely love working on him! Hey... why is [Second Warning]( https://osu.ppy.sh/beatmapsets/1289795#osu/3019319) playing?!?
+"Hello, and welcome to the *Wildcard* Lobotomy Corporation play through! It's day 13, and I just got this awesome *ZAYIN* abnormality named Plague Doctor. I absolutely love working on him! Hey... why is [Second Warning](https://osu.ppy.sh/beatmapsets/1289795#osu/3019319) playing?!?
 
 Oh... *oh...*"
 
@@ -184,7 +185,7 @@ Help vote this into L(oved) Corporation today!
 190 BPM, 2:20 | 6.99★\
 *description written by [rHO](https://osu.ppy.sh/users/1629553)*
 
-🐎 (NEIGH!!!) The second 🤪 *WILDCARD* 🃏 💥 (BOOM!!!) for 🍂 October 🍂 will be ..... 🐈🐎🐕  ✨ [BSPOWER BIGBANG]( https://osu.ppy.sh/beatmapsets/603075#osu) 🎇 by 🐐 (BAAA!!!) [AMETH RIANNO]( https://osu.ppy.sh/users/5219516) 🇮🇩!!
+🐎 (NEIGH!!!) The second 🤪 *WILDCARD* 🃏 💥 (BOOM!!!) for 🍂 October 🍂 will be ..... 🐈🐎🐕  ✨ [BSPOWER BIGBANG](https://osu.ppy.sh/beatmapsets/603075#osu) 🎇 by 🐐 (BAAA!!!) [AMETH RIANNO](https://osu.ppy.sh/users/5219516) 🇮🇩!!
 
 Because what's a Project Loved round without it's monthly *tehc slideaux maps*, am I right? Essentially, pioneering and influencing the tech scene in his time, Ameth Rianno is an prodigy of sorts — your favorite mapper's favorite mapper, really. He went all in on this map capturing the chaotic nature of the song with the weapon he wields best: high-SV sliders. My words are failing me here, but one thing I'm sure of: *this map is Peak™*. An ode to Indonesian kids playing fireworks in front of your house — I suppose — as said by Ameth himself.
 

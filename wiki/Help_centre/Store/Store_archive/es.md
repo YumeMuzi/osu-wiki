@@ -20,8 +20,13 @@ tags:
 
 # Archivo de la osu!store
 
-*Página principal: [osu!store y mercancía](/wiki/Help_centre/Store)*\
-*Nota: Estos productos ya no están disponibles para su compra en la osu!store. Para ver la lista completa de los productos que se vendieron en la osu!store en el pasado, véase: [Productos anteriores de la osu!store](/wiki/Past_osu!store_items)*
+::: alert-note
+**Página principal:** [osu!store y mercancía](/wiki/Help_centre/Store)
+:::
+
+::: alert-notice
+**Nota:** Estos productos ya no están disponibles para su compra en la osu!store. Para ver la lista completa de los productos que se vendieron en la osu!store en el pasado, véase: [Productos anteriores de la osu!store](/wiki/Past_osu!store_items)
+:::
 
 ¿Tienes problemas con un producto de la osu!store? ¡Revisa si hay una solución disponible para tu problema!
 
@@ -120,7 +125,7 @@ Para solucionarlo, asegúrate de tener seleccionado el dispositivo osu!go, haz c
 
 **Tendrás que particionar el dispositivo desde cero.**
 
-Sigue [esta guía](https://tails.net/doc/reset/windows/index.es.html) para saber cómo hacerlo.
+Sigue [esta guía](https://tails.net/doc/first_steps/reset/windows/index.es.html) para saber cómo hacerlo.
 
 ### He reformateado el dispositivo osu!go y ahora aparece en la administración de discos {id=osu!go-clean}
 

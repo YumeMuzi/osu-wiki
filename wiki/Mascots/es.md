@@ -1,8 +1,10 @@
 # Mascotas
 
-*Véase también: [Galería/Mascotas](/wiki/Mascots/Gallery).*
+::: alert-note
+**Véase también:** [Galería/Mascotas](/wiki/Mascots/Gallery).
+:::
 
-Un vídeo de YouTube mostrando las mascotas de osu! puede verse en [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
+Este artículo lista las numerosas mascotas de osu! junto con una breve descripción de cada una. Se puede ver un vídeo de YouTube con las mascotas de osu! siendo mostradas [aquí](https://youtu.be/mJF2cAs_MrI).
 
 ## Oficiales
 
@@ -10,11 +12,13 @@ Un vídeo de YouTube mostrando las mascotas de osu! puede verse en [Mascot Showc
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, estilizado con una «p» minúscula, es la mascota de osu! que se unió en 7/2008. También se la conoce como pippidon en osu!taiko y tuvo aparición en [Yandere Simulator](https://yanderesimulator.com) como un NPC. El concepto de arte inicial fue creado por ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427), el sprite de pippidon fue creado por ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974), y el arte actual fue diseñado por ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480).
+pippi, estilizado con una «p» minúscula, es la mascota de osu! que se unió en 7/2008. También se la conoce como pippidon en osu!taiko. El concepto de arte inicial fue creado por ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427), el sprite de pippidon fue creado por ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974), y el arte actual fue diseñado por ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![icono de osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
-*Para la publicación en las noticias, véase: [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) y [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
+::: alert-note
+**Nota:** Para la publicación en las noticias, véase [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) y [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)
+:::
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -22,7 +26,9 @@ Yuzu es la mascota de osu!catch que se unió el 22/6/2014. Nació el 10/4/2000, 
 
 ### ![icono de osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
-*Para más información, véase: [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
+::: alert-note
+**Nota:** Para más información, véase [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)
+:::
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
@@ -32,7 +38,9 @@ Mani es algo así como un inconformista, siempre buscando explorar nuevos estilo
 
 ### ![icono de osu!taiko](/wiki/shared/mode/taiko.png) Mocha
 
-*Para la publicación en las noticias, véase: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
+::: alert-note
+**Nota:** Para la publicación en las noticias, véase [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)
+:::
 
 ![Mocha](img/Mocha.png "Mocha")
 
@@ -46,7 +54,7 @@ Mocha es la mascota de osu!taiko. Inicialmente fue diseñada durante el [sexto c
 
 > Él es es apasionado líder del equipo de porras. ¡Tiene buen alma y ayuda a quienes lo rodean que están en peligro poniéndose de pie y luchando por ellos!
 
-一本木龍太 (Ryūta Ippongi) fue el chibi-fruit catcher de osu!catch que se unió en 2008, pero fue reemplazado por [Yuzu](#yuzu) en 2014. Fue creado por [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) y una vez fue parte del viejo sitio web. También apareció en [Yandere Simulator](https://yanderesimulator.com) como un NPC.
+一本木龍太 (Ryūta Ippongi) fue el chibi-fruit catcher de osu!catch que se unió en 2008, pero fue reemplazado por [Yuzu](#yuzu) en 2014. Fue creado por [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) y una vez fue parte del viejo sitio web.
 
 Ryuuta también fue presentado en la skin de ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 

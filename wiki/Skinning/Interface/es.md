@@ -1,6 +1,8 @@
 # Skinning de la interfaz
 
-*Véase también: [Interfaz](/wiki/Client/Interface)*
+::: alert-note
+**Véase también:** [Interfaz](/wiki/Client/Interface)
+:::
 
 Los elementos de skinning de la interfaz se usan en varios modos de juego o partes de la interfaz de usuario del cliente.
 
@@ -188,7 +190,9 @@ Notas:
 
 ## Iconos de los mods
 
-*Página principal: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Página principal:** [Modificadores del juego](/wiki/Gameplay/Game_modifier)
+:::
 
 ---
 
@@ -610,7 +614,9 @@ Notas:
 
 ## Asistente de compensación
 
-*Página principal: [Asistente de compensación](/wiki/Guides/How_to_use_the_Offset_Wizard)*
+::: alert-note
+**Página principal:** [Asistente de compensación](/wiki/Guides/How_to_use_the_Offset_Wizard)
+:::
 
 ---
 
@@ -838,7 +844,9 @@ Notas:
 
 ### Hit bursts
 
-*Página principal: [Skinning/FAQ § Jerarquía de la pantalla de clasificación](/wiki/Skinning/FAQ#jerarquía-de-puntuación-de-la-pantalla-de-clasificación)*
+::: alert-note
+**Página principal:** [Skinning/FAQ § Jerarquía de la pantalla de clasificación](/wiki/Skinning/FAQ#jerarquía-de-puntuación-de-la-pantalla-de-clasificación)
+:::
 
 ---
 
@@ -1465,6 +1473,21 @@ Notas:
 - El modo de mezcla varía:
   - Si se usa para el contador del combo:
     - Aditivo para las imágenes posteriores a la expansión.
+
+---
+
+`score-pp.png`
+
+![](img/score-pp.png)
+
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | - |
+
+Notas:
+
+- Este elemento solo está disponible en [Lazer](/wiki/Client/Release_stream/Lazer).
+- Este elemento es para los [puntos de rendimiento](/wiki/Performance_points).
 
 ## Grados
 

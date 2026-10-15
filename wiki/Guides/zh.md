@@ -19,7 +19,7 @@
 - [osu!mania 作图指南](osu!mania_mapping_guide)
 - [调整偏移值来对齐节拍](Setting_the_offset_on_the_correct_beat)
 - [使用自定义打击音效](Using_custom_hitsounds)
-- [测定 #/8 拍歌曲的时间轴](Timing_songs_with_8-signatures)
+- [测定 #/8 拍歌曲的时间轴](Timing_songs_with_N_per_8_time_signatures)
 
 ## 摸图
 
@@ -32,7 +32,6 @@
 ## 游玩
 
 - [如何使用偏移量设置向导](How_to_use_the_Offset_Wizard)
-- [数位板购买指南](Tablet_purchase)
 - [新手教程](Beginner's_tutorial)
 
 ## 制作皮肤

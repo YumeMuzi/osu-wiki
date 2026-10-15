@@ -2,11 +2,12 @@
 layout: post
 title: "osu!mania World Cup 2018: Grand Finals Recap"
 date: 2018-10-11 17:00:00 +0000
+series: world_cups
 ---
 
 After 6 weeks of intense note holding action, the osu!mania World Cup 4k has reached its conclusion. Our finalists for this year is Brazil, United States and South Korea!
 
- ![](/wiki/shared/news/banners/MWC4K_2018_banner.jpg)
+![](/wiki/shared/news/banners/MWC4K_2018_banner.jpg)
 
 ### [United States vs Brazil](https://osu.ppy.sh/community/matches/46485848)
 

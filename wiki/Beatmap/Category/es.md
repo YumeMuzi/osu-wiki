@@ -18,7 +18,7 @@ Los beatmaps inactivos que han estado en esta categoría durante 4 semanas se mu
 
 ### Calificados {id=qualified}
 
-Calificados es la última etapa del [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure). Estos beatmaps han sido nominados por al menos dos [Beatmap Nominators](/wiki/People/Beatmap_Nominators) que se han asegurado de que el beatmap cumpla con los estándares de los [criterios de clasificación](/wiki/Ranking_criteria). Los beatmaps puestos en calificados entran en una [cola de clasificación](/wiki/Beatmap_ranking_procedure/Ranking_queue), y eventualmente serán [clasificados](#ranked) si no son [descalificados](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) de la cola. Este periodo sirve como última línea de defensa en la que se pueden corregir los fallos y errores que se hayan podido dejar pasar.
+Calificados es la última etapa del [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure). Estos beatmaps han sido nominados por [Beatmap Nominators](/wiki/People/Beatmap_Nominators) que se han asegurado de que el beatmap cumpla con los estándares de los [criterios de clasificación](/wiki/Ranking_criteria). Los beatmaps puestos en calificados entran en una [cola de clasificación](/wiki/Beatmap_ranking_procedure/Ranking_queue), y eventualmente serán [clasificados](#ranked) si no son [descalificados](/wiki/Beatmap_ranking_procedure#restablecimiento-de-nominaciones) de la cola. Este periodo sirve como última línea de defensa en la que se pueden corregir los fallos y errores que se hayan podido dejar pasar.
 
 Los beatmaps calificados tienen tablas de clasificación, pero no otorgarán [puntos de rendimiento](/wiki/Performance_points) y todas las puntuaciones se eliminarán cuando salga de calificados. Usan el icono de visto (![](/wiki/shared/status/qualified.png)) en el selector de canciones.
 
@@ -28,7 +28,9 @@ Los beatmaps clasificados están respaldados como contenido oficial, en el senti
 
 ### Amados {id=loved}
 
-*Para conocer la historia de la categoría amados, véase: [Historia de amado](/wiki/History_of_osu!/History_of_Loved)*
+::: alert-note
+**Nota:** Para conocer la historia de la categoría amados, véase [Historia de amado](/wiki/History_of_osu!/History_of_Loved)
+:::
 
 Es posible que los beatmaps amados no cumplan con los [criterios de clasificación](/wiki/Ranking_criteria), pero son *amados* por la comunidad y, por lo tanto, se añaden regularmente en función de los votos de la comunidad en [Project Loved](/wiki/Community/Project_Loved). Tienen tablas de clasificación, pero no otorgarán [puntos de rendimiento](/wiki/Performance_points) y todas las puntuaciones se eliminarán si se mueve fuera de amados. Los beatmaps amados usan el icono del corazón (![](/wiki/shared/status/loved.png)) en el selector de canciones.
 

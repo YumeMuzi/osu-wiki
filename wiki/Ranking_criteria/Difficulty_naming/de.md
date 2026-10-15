@@ -6,7 +6,10 @@ Mit der Benennung von Schwierigkeitsstufen wird Spielern mitgeteilt, wie schwier
 
 Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jeden Spielmodus.
 
-*Hinweis: Der spezielle Name für den Schwierigkeitsgrad **Marathon** erlaubte Mappern früher Beatmaps mit längeren Songs einzureichen und wurde somit für Beatmapsets mit nur einer Schwierigkeitsstufe populär. Heute hat der Name keine besondere Bedeutung und wird typischerweise nur für sehr lange Songs oder Zusammenstellungen mehrerer Songs genutzt.*
+::: alert-notice
+**Hinweis**
+Der spezielle Name für den Schwierigkeitsgrad **Marathon** erlaubte Mappern früher Beatmaps mit längeren Songs einzureichen und wurde somit für Beatmapsets mit nur einer Schwierigkeitsstufe populär. Heute hat der Name keine besondere Bedeutung und wird typischerweise nur für sehr lange Songs oder Zusammenstellungen mehrerer Songs genutzt.
+:::
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -16,13 +19,27 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
+#### Alternativen
+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Unter Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Zwischen Normal und Hard
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Zwischen Hard und Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative zu Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Über Expert
+
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
+
+#### Alternativen
+
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Unter Kantan
+- ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni: Alternative zu Inner Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Über Inner Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -32,6 +49,10 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
+#### Alternativen
+
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Über Overdose
+
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
@@ -39,17 +60,6 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-
-### Weithin akzeptierte Alternativen
-
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Unter Easy
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Unter Kantan
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Zwischen Normal und Hard
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Zwischen Hard und Insane
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative zu Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Über Expert
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Über Inner Oni / Ura Oni
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Über Overdose
 
 ## Benennung von Schwierigkeitsgraden von anderen Spielen
 
@@ -105,7 +115,10 @@ Beatmapsets von Songs, die von anderen Spielen stammen, übernehmen oft das Bene
 
 ### SOUND VOLTEX
 
-*Anmerkung: Umfangreiche Beatmapsets von Songs aus SOUND VOLTEX verwenden oft Namen für Schwierigkeitsstufen aus mehreren Versionen des Spiels, auch wenn der Song nicht in allen davon auftaucht.*
+::: alert-notice
+**Hinweis**
+Umfangreiche Beatmapsets von Songs aus SOUND VOLTEX verwenden oft Namen für Schwierigkeitsstufen aus mehreren Versionen des Spiels, auch wenn der Song nicht in allen davon auftaucht.
+:::
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
 - ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 6078f92571023d7e98657cd6a80bf9dcc9a55628
 ---
 
 # Skinning des sons
@@ -211,7 +213,10 @@ Ces sons sont mappés en tant que `S:C1` sur les skins des beatmaps :
 
 #### Mod Nightcore
 
-*Note : Les fichiers proviennent de votre skin, mais pas du skin de la beatmap.*
+::: alert-notice
+**Note**
+Les fichiers proviennent de votre skin, mais pas du skin de la beatmap.
+:::
 
 Ces sons sont joués en plus de la musique lorsque le [mod Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) est activé. En 4/4 :
 
